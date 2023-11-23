@@ -1,2 +1,2 @@
-# ssc31.github.io
-Just a Test File
+# To test the commit
+This folder is use to learn about how to make commits in git.
